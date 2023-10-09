@@ -1,5 +1,9 @@
 # Overview:
-My stakeholders are the Customer Retention Analytics (CRA) team at a telecoms company 'SyriaTel' where I'm a lead datascientist. The CRA team takes a data-driven approach to enhancing customer satisfaction and decreasing churn (when a customer leaves a business). I'm on a team within a centralized datascience and engineering organization. We support various satellite analytics teams including CRA, who distill our datasets further into business metrics, interactive dashboards, and slide deck presentations. The CRA team supports the greater customer retention org, which then implements changes to our incentives program. 
+My stakeholders are the Customer Retention Analytics (CRA) team at a telecoms company 'SyriaTel' where I'm a lead datascientist. The CRA team takes a data-driven approach to enhancing customer satisfaction and decreasing churn (when a customer leaves a business). I'm on a team within a centralized datascience and engineering organization. We support various satellite analytics teams including CRA, who distill our datasets further into business metrics, interactive dashboards, and slide deck presentations. The CRA team supports the greater customer retention org, which then implements changes to our incentives program.
+
+# Other Project materials:
+- [Slide Presentation](https://docs.google.com/presentation/d/1PaNujpXCaFWnk6NtoJyeblxc5CgvM6doHmbIj5wZEq4/edit?usp=sharing)
+- [Final Jupyter Notebook](https://github.com/clairesarraille/SyriaTel_Customer_Churn/blob/main/final_notebook.ipynb)
 
 # Problem and Objective:
 We lack the ability to identify customers when they're on the cusp of churning. The objective of this project is to predict likely churners. Our dataset includes 20 variables describing over 3,000 current and churned customers. Achieving this predictive ability will allow us to examine the data on a rolling basis and quickly implement targeted incentivization.
